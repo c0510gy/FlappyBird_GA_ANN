@@ -1,0 +1,27 @@
+c:\users\06281\source\repos\SimpleGame_ANN\SimpleGame_ANN\obj\Debug\SimpleGame_ANN.csprojResolveAssemblyReference.cache
+c:\users\06281\source\repos\SimpleGame_ANN\SimpleGame_ANN\obj\Debug\SimpleGame_ANN.csproj.CoreCompileInputs.cache
+c:\users\06281\source\repos\SimpleGame_ANN\SimpleGame_ANN\bin\Debug\SimpleGame_ANN.exe.config
+c:\users\06281\source\repos\SimpleGame_ANN\SimpleGame_ANN\bin\Debug\SimpleGame_ANN.exe
+c:\users\06281\source\repos\SimpleGame_ANN\SimpleGame_ANN\bin\Debug\SimpleGame_ANN.pdb
+c:\users\06281\source\repos\SimpleGame_ANN\SimpleGame_ANN\obj\Debug\SimpleGame_ANN.exe
+c:\users\06281\source\repos\SimpleGame_ANN\SimpleGame_ANN\obj\Debug\SimpleGame_ANN.pdb
+C:\Users\06281\Desktop\SimpleGame_ANN\SimpleGame_ANN\bin\Debug\SimpleGame_ANN.exe.config
+C:\Users\06281\Desktop\SimpleGame_ANN\SimpleGame_ANN\bin\Debug\SimpleGame_ANN.exe
+C:\Users\06281\Desktop\SimpleGame_ANN\SimpleGame_ANN\bin\Debug\SimpleGame_ANN.pdb
+C:\Users\06281\Desktop\SimpleGame_ANN\SimpleGame_ANN\obj\Debug\SimpleGame_ANN.csproj.CoreCompileInputs.cache
+C:\Users\06281\Desktop\SimpleGame_ANN\SimpleGame_ANN\obj\Debug\SimpleGame_ANN.exe
+C:\Users\06281\Desktop\SimpleGame_ANN\SimpleGame_ANN\obj\Debug\SimpleGame_ANN.pdb
+C:\Users\06281\Desktop\SimpleGame_ANN\SimpleGame_ANN\obj\Debug\SimpleGame_ANN.csprojResolveAssemblyReference.cache
+C:\Users\06281\Desktop\SimpleGame_ANN - 복사본\SimpleGame_ANN\bin\Debug\SimpleGame_ANN.exe.config
+C:\Users\06281\Desktop\SimpleGame_ANN - 복사본\SimpleGame_ANN\bin\Debug\SimpleGame_ANN.exe
+C:\Users\06281\Desktop\SimpleGame_ANN - 복사본\SimpleGame_ANN\bin\Debug\SimpleGame_ANN.pdb
+C:\Users\06281\Desktop\SimpleGame_ANN - 복사본\SimpleGame_ANN\obj\Debug\SimpleGame_ANN.csproj.CoreCompileInputs.cache
+C:\Users\06281\Desktop\SimpleGame_ANN - 복사본\SimpleGame_ANN\obj\Debug\SimpleGame_ANN.exe
+C:\Users\06281\Desktop\SimpleGame_ANN - 복사본\SimpleGame_ANN\obj\Debug\SimpleGame_ANN.pdb
+D:\Projects\Flappy_Bird_GA_ANN\Github\SimpleGame_ANN\SimpleGame_ANN\bin\Debug\SimpleGame_ANN.exe.config
+D:\Projects\Flappy_Bird_GA_ANN\Github\SimpleGame_ANN\SimpleGame_ANN\bin\Debug\SimpleGame_ANN.exe
+D:\Projects\Flappy_Bird_GA_ANN\Github\SimpleGame_ANN\SimpleGame_ANN\bin\Debug\SimpleGame_ANN.pdb
+D:\Projects\Flappy_Bird_GA_ANN\Github\SimpleGame_ANN\SimpleGame_ANN\obj\Debug\SimpleGame_ANN.csprojResolveAssemblyReference.cache
+D:\Projects\Flappy_Bird_GA_ANN\Github\SimpleGame_ANN\SimpleGame_ANN\obj\Debug\SimpleGame_ANN.csproj.CoreCompileInputs.cache
+D:\Projects\Flappy_Bird_GA_ANN\Github\SimpleGame_ANN\SimpleGame_ANN\obj\Debug\SimpleGame_ANN.exe
+D:\Projects\Flappy_Bird_GA_ANN\Github\SimpleGame_ANN\SimpleGame_ANN\obj\Debug\SimpleGame_ANN.pdb
