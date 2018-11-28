@@ -12,7 +12,7 @@
 수많은 파일을 생성하고 싶지 않다면, ```GA_ANN.cs``` 에서 ```DNASimul()```와 ```GetScores()``` 함수를 수정하세요.
 
 ## 1. Flappy Bird 게임 Class 구현
-![FlappyBird](./images/FlappyBird구현.png)
+<img src="./images/FlappyBird구현.png" alt="FlappyBird" width="500"/>
 
 **주인공(플레이어)** : 빨간색 사각형
 
@@ -25,7 +25,7 @@
 **점수** : 생존 시간에 비례
 
 ## 2. MLP (Mulilayer perceptron) 신경망 구조 설계
-![MLPNeuralNetworkStructure](./images/MLP구조.png)
+<img src="./images/MLP구조.png" alt="MLPNeuralNetworkStructure" width="300"/>
 
 ### 2.1 입력 레이어
 
@@ -51,7 +51,7 @@
 
 각 퍼셉트론에 대한 weight 값과 bias값의 배열
 
-![DNAstructure](./images/structure%20of%20dna.png)
+<img src="./images/structure%20of%20dna.png" alt="DNAstructure" width="400"/>
 
 ### 3.2 DNA 개수
 총 20개
