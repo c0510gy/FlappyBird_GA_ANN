@@ -27,7 +27,7 @@
 ## 2. MLP (Mulilayer perceptron) 신경망 구조 설계
 <img src="./images/MLP구조.png" alt="MLPNeuralNetworkStructure" width="300"/>
 
-### 2.1 입력 레이어
+### 2.1. 입력 레이어
 
 **P00** : 다음 장애물과의 거리
 
@@ -36,30 +36,30 @@
 **P02** : 주인공(플레이어)의 y좌표(높이)
 
 
-### 2.2 은닉 레이어(Hidden Layer)
+### 2.2. 은닉 레이어(Hidden Layer)
 
 2중 Layer로 구성 (5 + 2)
 
 
-### 2.3 출력 레이어
+### 2.3. 출력 레이어
 
 **P30** : Jump여부 (0.5이상 값이면 점프)
 
 ## 3. 유전 알고리즘(Genetic algorithm) 설계
 
-### 3.1 DNA 구조 설계
+### 3.1. DNA 구조 설계
 
 각 퍼셉트론에 대한 weight 값과 bias값의 배열
 
 <img src="./images/structure%20of%20dna.png" alt="DNAstructure" width="400"/>
 
-### 3.2 DNA 개수
+### 3.2. DNA 개수
 총 20개
 
-### 3.3 돌연변이 확률
+### 3.3. 돌연변이 확률
 5%
 
-### 3.4 교배 규칙
+### 3.4. 교배 규칙
 
 **1)** 게임 점수 상위 50% DNA보존
 
